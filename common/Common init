@@ -1,0 +1,13 @@
+package dev.antboi.claysoldiers;
+
+public class ClaySoldiers {
+    public static final String MOD_ID = "clay_soldiers";
+
+    public static void init() {
+        // Call your registries here:
+        // ModItems.init();
+        // ModBlocks.init();
+        // ModEntities.init();
+        // ModCreativeTabs.init();
+    }
+}
